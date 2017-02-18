@@ -16,5 +16,6 @@ public class Main {
             a[i][i] = temp;
         }
         System.out.println(Arrays.deepToString(a));
+        System.out.println("dhdh");
     }
 }
